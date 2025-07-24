@@ -1,8 +1,8 @@
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/conqr2/typelessorm/raw/master/resources/logo-colored-light.png">
-        <source  media="(prefers-color-scheme: light)" srcset="https://github.com/conqr2/typelessorm/raw/master/resources/logo-colored-dark.png">
-        <img height="80" width="auto" alt="TypeORM Logo" src="https://github.com/conqr2/typelessorm/raw/master/resources/logo-colored-dark.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/conqr2/typelessorm/raw/master/github/logo-colored-light.png">
+        <source  media="(prefers-color-scheme: light)" srcset="https://github.com/conqr2/typelessorm/raw/master/github/logo-colored-dark.png">
+        <img height="80" width="auto" alt="TypeORM Logo" src="https://github.com/conqr2/typelessorm/raw/master/github/logo-colored-dark.png">
     </picture>
 </div>
 
