@@ -4,6 +4,8 @@
         <source  media="(prefers-color-scheme: light)" srcset="https://github.com/conqr2/typelessorm/raw/master/github/logo-colored-dark.png">
         <img height="80" width="auto" alt="TypeORM Logo" src="https://github.com/conqr2/typelessorm/raw/master/github/logo-colored-dark.png">
     </picture>
+    <br />
+    <br />
 </div>
 
 TypelessORM is a Typescript / Javascript [ORM](https://en.wikipedia.org/wiki/Object-relational_mapping) designed as drop-in replacement for TypeORM. It is designed to make less assumptions, surface errors before runtime, and behave more consistently.
